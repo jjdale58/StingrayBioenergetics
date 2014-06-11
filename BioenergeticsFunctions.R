@@ -1,3 +1,5 @@
+#Helper functions for MonteCarloSimulation.r
+
 #run functions seperately for males and females then combine in simaverage
 #sex: 1 = female, 2 = male, calculates mean weight at age from logistic function with sex specific parameters and pairs with age specific sd based on observed sd of weight at age data
 #data = weights
